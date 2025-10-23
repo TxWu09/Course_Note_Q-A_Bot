@@ -1,0 +1,7 @@
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+streamlit
+PyPDF2
+beautifulsoup4
