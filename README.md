@@ -49,6 +49,7 @@ python main.py --mode cli
 Web interface (Streamlit)
 ```
 python main.py --mode web
+```
 Then open:
 ```
 http://localhost:8501
